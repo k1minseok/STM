@@ -1,0 +1,2 @@
+../Core/AP/RC_Car/Presenter.c:20:6:Presenter_Motor_Run	16	static
+../Core/AP/RC_Car/Presenter.c:51:6:Presenter_UART_Run	16	static

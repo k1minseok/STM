@@ -1,0 +1,6 @@
+../Core/AP/RC_Car/defineModel.c:31:6:Model_hardwareinit	1
+../Core/AP/RC_Car/defineModel.c:48:12:Model_getHandler	1
+../Core/AP/RC_Car/defineModel.c:53:15:Model_getHandleMotor	1
+../Core/AP/RC_Car/defineModel.c:59:5:_write	1
+../Core/AP/RC_Car/defineModel.c:67:9:Model_getCarModeState	1
+../Core/AP/RC_Car/defineModel.c:71:6:Model_setCarModeState	1

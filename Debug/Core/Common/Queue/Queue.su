@@ -1,0 +1,5 @@
+../Core/Common/Queue/Queue.c:10:6:Que_init	16	static
+../Core/Common/Queue/Queue.c:17:9:QueFull	16	static
+../Core/Common/Queue/Queue.c:25:9:QueEmpty	16	static
+../Core/Common/Queue/Queue.c:34:6:enQue	16	static
+../Core/Common/Queue/Queue.c:43:9:deQue	24	static
